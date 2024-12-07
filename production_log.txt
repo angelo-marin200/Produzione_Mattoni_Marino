@@ -1,0 +1,64 @@
+Impastatrice 2 inizia impasto.
+Impastatrice 4 inizia impasto.
+Impastatrice 8 inizia impasto.
+Impastatrice 1 inizia impasto.
+Impastatrice 7 inizia impasto.
+Impastatrice 6 inizia impasto.
+Impastatrice 5 inizia impasto.
+Impastatrice 3 inizia impasto.
+Impastatrice 3 ha completato un impasto.
+Impastatrice 1 ha completato un impasto.
+Impastatrice 1 inizia impasto.
+Impastatrice 3 inizia impasto.
+Impastatrice 2 ha completato un impasto.
+Impastatrice 6 ha completato un impasto.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 8 ha completato un impasto.
+Impastatrice 8 inizia impasto.
+Impastatrice 6 inizia impasto.
+Impastatrice 2 inizia impasto.
+Impastatrice 7 ha completato un impasto.
+Impastatrice 7 inizia impasto.
+Impastatrice 5 ha completato un impasto.
+Impastatrice 4 ha completato un impasto.
+Impastatrice 4 inizia impasto.
+Impastatrice 5 inizia impasto.
+Forno inizia cottura per 200 mattoni.
+Stampaggio completato per 200 mattoni.
+Stampaggio in corso per 200 mattoni.
+Stampaggio completato per 200 mattoni.
+Impastatrice 1 ha completato un impasto.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 4 ha completato un impasto.
+Impastatrice 5 ha completato un impasto.
+Stampaggio completato per 200 mattoni.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 8 ha completato un impasto.
+Stampaggio completato per 200 mattoni.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 6 ha completato un impasto.
+Forno ha completato la cottura per 200 mattoni.
+Imballaggio inizia per 200 mattoni.
+Forno inizia cottura per 200 mattoni.
+Stampaggio completato per 200 mattoni.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 2 ha completato un impasto.
+Stampaggio completato per 200 mattoni.
+Impastatrice 7 ha completato un impasto.
+Stampaggio in corso per 200 mattoni.
+Imballaggio completato. Mattoni imballati: 200
+Stampaggio completato per 200 mattoni.
+Stampaggio in corso per 200 mattoni.
+Impastatrice 3 ha completato un impasto.
+Stampaggio completato per 200 mattoni.
+Forno ha completato la cottura per 200 mattoni.
+Imballaggio inizia per 200 mattoni.
+Forno inizia cottura per 200 mattoni.
+Imballaggio completato. Mattoni imballati: 400
+Forno ha completato la cottura per 200 mattoni.
+Imballaggio inizia per 200 mattoni.
+Forno inizia cottura per 200 mattoni.
+Imballaggio completato. Mattoni imballati: 600
+Forno ha completato la cottura per 200 mattoni.
+Imballaggio inizia per 200 mattoni.
+Imballaggio completato. Mattoni imballati: 800
